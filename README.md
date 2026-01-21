@@ -1,1 +1,1 @@
-# miniproj_huffman
+# miniproj_huffman_python
